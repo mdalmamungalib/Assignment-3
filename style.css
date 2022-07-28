@@ -1,9 +1,3 @@
-.carusel-item{
-    height: 32rem;
-    background: #000;
-    color: white;
-    position: relative;
-}
 .carusel-text{
     font-family: 'Poppins';
     font-style: normal;
@@ -17,4 +11,11 @@
 .carusel-text-p{
     text-align: center;
     line-height: 25px;
+}
+
+.box-h5{
+    color: #289BDE;
+}
+.box-h5-text{
+    color: #FFFFFF;
 }
