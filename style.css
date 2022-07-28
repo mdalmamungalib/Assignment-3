@@ -28,3 +28,19 @@
     padding-left: 450px;
     padding-top: 40px;
 }
+.fidback{
+    border: 1px solid gray;
+    width: 648px;
+    height: 336px;
+    border-radius: 5px;
+}
+.stare-box{
+    margin-left: 350px;
+    
+}
+.stare{
+    color: #FBBF24;
+}
+.stare-blank{
+    color: #FEF3C7;
+}
