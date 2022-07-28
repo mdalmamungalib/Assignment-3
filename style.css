@@ -1,5 +1,5 @@
 .carusel-text{
-    font-family: 'Poppins';
+    
     font-style: normal;
     font-weight: 600;
     font-size: 55px;
@@ -43,4 +43,13 @@
 }
 .stare-blank{
     color: #FEF3C7;
+}
+.footeres{
+    width: 1903px;
+    height: 427px;
+    background-color: #161616;
+    margin-top: 100px;
+}
+.icons{
+    font-size: 30px;
 }
